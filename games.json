@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "games": [
+    {
+      "id": "com.nivro.podcastsim",
+      "name": "Podcast Sim",
+      "tagline": "Build a podcast from nothing. Book guests, chase charts, and go full time.",
+      "icon": "icons/podcastsim.png"
+    }
+  ]
+}
