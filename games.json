@@ -6,6 +6,12 @@
       "name": "Podcast Sim",
       "tagline": "Build a podcast from nothing. Book guests, chase charts, and go full time.",
       "icon": "icons/podcastsim.png"
+    },
+    {
+      "id": "com.mobile.rapstar_simu",
+      "name": "Rapstar Sim: Rap Life Career",
+      "tagline": "Write songs, top the charts, build a label and become a legend.",
+      "icon": "icons/rapstarsim.png"
     }
   ]
 }
